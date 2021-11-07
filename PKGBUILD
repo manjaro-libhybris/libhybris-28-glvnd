@@ -1,5 +1,5 @@
 # Contributor: Michael Serpieri <mickybart@pygoscelis.org>
-pkgname=libhybris-glvnd
+pkgname=libhybris-28-glvnd
 provides=('libhybris')
 _pkgbase=libhybris
 pkgver=1533.fa2bb0c
